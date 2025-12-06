@@ -30,6 +30,7 @@ Projeto de portfólio em Python que implementa um pipeline ETL (Extract, Transfo
 
 - Criação de uma conexão com o banco de dados usando **SQLAlchemy**.
 - Escrita do DataFrame em uma tabela SQL por meio do método `DataFrame.to_sql`, permitindo criar ou substituir a tabela de destino.
+![Dados no banco de dados](https://github.com/Jhon-Mota/ETL-project/blob/main/image.png)
 
 ## Tecnologias utilizadas
 
